@@ -1,16 +1,16 @@
 # My CMU Game Website Plan
 
-- **Project Title:** My CMU Game Website
+- **Project Title:** APCSP Antics
 
 ---
 
 # 1. CMU Game Selection
 
 ## Game Title
-My game is called **Space Dodger**.
+My game is called **Evil Asteroids**.
 
 ## Link to the Game
-[Play My Game Here](https://academy.cs.cmu.edu/sharing/example-link)
+[Play My Game Here](https://academy.cs.cmu.edu/exercise/3068/)
 
 ## Short Description
 This is a fast-paced arcade game where the player controls a spaceship and avoids incoming asteroids while collecting power-ups.
