@@ -10,10 +10,10 @@
 My game is called **Evil Asteroids**.
 
 ## Link to the Game
-[Play My Game Here](https://academy.cs.cmu.edu/exercise/3068/)
+[Play My Game Here](https://academy.cs.cmu.edu/sharing/limeSnail485459)
 
 ## Short Description
-This is a fast-paced arcade game where the player controls a spaceship and avoids incoming asteroids while collecting power-ups.
+This is a fast-paced arcade game where the player controls a spaceship and avoids asteroids by shooting lasers at it while gaining or losing points based on the player's performance.
 
 ---
 
@@ -23,17 +23,14 @@ This is a fast-paced arcade game where the player controls a spaceship and avoid
 My website will include:
 
 - A large title banner for the game
-- A short description explaining how the game works
-- Screenshots from gameplay
 - A playable embedded version of the game
 - Instructions for controls
 - A high-score or challenge section
-- A short “About the Developer” section
-- A contact or feedback section
+- Pictures of objects and characters
 
 ## Additional Features I Might Add
 - Animated buttons
-- Hover effects
+- Animated pictures of characters or asteroids
 - Background music
 ---
 
@@ -41,29 +38,28 @@ My website will include:
 
 ## Basic Layout Sketch
 
-HEADER / TITLE
+APCSP Antics
 ------------------------------------------------
 
-GAME SCREENSHOT OR BANNER
+Evil Asteroids
 ------------------------------------------------
 
 ABOUT THE GAME | HOW TO PLAY | HIGH SCORES
 ------------------------------------------------
 
-PLAYABLE GAME AREA
+ANIMATED OBJECTS AND CHARACTERS
 ------------------------------------------------
 
-ABOUT THE DEVELOPER
+PLAYABLE GAME AREA
 ------------------------------------------------
 
 FOOTER
 ------------------------------------------------
 
 ## Layout Notes
-- The navigation bar will stay at the top.
+- Banner at the top
 - The playable game will be centered on the page.
-- Information sections will appear below the game.
-- The website should work well on both desktop and mobile screens.
+- Screenshots of objects and characters above game
 
 ---
 
