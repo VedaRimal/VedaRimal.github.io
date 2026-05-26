@@ -87,30 +87,25 @@ The tone of my website will be:
 - Fun
 - Energetic
 - Competitive
-- Retro arcade-inspired
+- Retro
 
 ## Writing Style
 The writing on the page will:
-- Use short paragraphs
-- Include exciting action words
-- Encourage players to try to beat the game
-- Feel welcoming and easy to understand
+- Use short sentences
+- Use futuristic words that match the theme
 
 ---
 
 # 6. Inspiration and References
 
 ## Websites I Like
-- https://www.minecraft.net
-- https://undertale.com
-- https://www.nintendo.com
+- www.google.com
+- www.moonlander.seb.ly
 
 ## Features I Like From These Sites
-- Large hero images
-- Bright colors
-- Simple navigation
-- Interactive buttons
-- Clean layouts
+- Neutral colored backgrounds
+- Contrasting text
+- Simplicity
 
 ---
 
@@ -126,7 +121,6 @@ The writing on the page will:
 - Add animations
 - Make the layout responsive
 - Add sound effects
-- Include JavaScript interactivity
 
 ---
 
@@ -145,7 +139,7 @@ The writing on the page will:
 # 9. Reflection
 
 ## What I Think Will Be Most Challenging
-The hardest part will probably be making the layout look professional and making the website responsive on different screen sizes.
+The hardest part will probably be the css and making the website look good
 
 ## What I Am Most Excited About
-I am most excited about customizing the visual design and sharing my game online using GitHub Pages.
+Making larger images of the actual objects in the game to display
